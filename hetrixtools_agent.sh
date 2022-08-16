@@ -1,4 +1,4 @@
-#!/bin/bash
+
 #
 #
 #	HetrixTools Server Monitoring Agent
