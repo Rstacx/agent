@@ -25,7 +25,7 @@
 
 # Set PATH/Locale
 export LC_NUMERIC="en_US.UTF-8"
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+PATH=/opt/music
 ScriptPath=$(dirname "${BASH_SOURCE[0]}")
 
 # Agent Version (do not change)
