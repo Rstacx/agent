@@ -71,7 +71,7 @@ echo "... done."
 
 # Fetching new agent
 echo "Fetching the new agent..."
-wget -t 1 -T 30 -qO /etc/hetrixtools/hetrixtools_agent.sh --no-check-certificate https://raw.github.com/hetrixtools/agent/master/hetrixtools_agent.sh
+wget -t 1 -T 30 -qO /etc/hetrixtools/hetrixtools_agent.sh --no-check-certificate https://raw.githubusercontent.com/Rstacx/agent/master/hetrixtools_agent.sh
 echo "... done."
 
 # Inserting Server ID (SID) into the agent config
